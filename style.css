@@ -7,6 +7,8 @@
 
 nav {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
     font-family: 'Roboto';
     background: #1052ad;
 }
@@ -14,10 +16,12 @@ nav {
 .nav1 {
     display: flex;
     align-items: center;
+    margin: 15px;
 }
 
 .nav1 img{
     width: 150px;
+    margin-right: 35px;
 }
 
 .nav1 ul{
@@ -35,4 +39,56 @@ nav {
     margin: 10px;
     color: #ffffff;
     font-weight: 300;
+}
+
+.nav2 {
+    display: flex;
+    align-items: center;
+    margin: 15px;
+}
+
+.nav2 input{
+    margin-right: 20px;
+    padding: 8px 15px;
+    border-radius: 30px;
+    border: none;
+}
+
+.nav2-icons {
+    display: flex;
+    align-items: center;
+}
+
+.bar {
+    background: #ffffff;
+    width: 1px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.nav2-icons {
+    display: flex;
+    align-items: center;
+}
+
+
+.nav2-icons i{
+    margin-right: 10px;
+    font-size: 23px;
+    color: #ffffff;
+}
+
+.landing {
+    display: flex;
+    align-items: center;
+}
+
+
+.landing img{
+    width: 380px;
+}
+
+.landing-container {
+    display: flex;
+    justify-content: center;
 }
