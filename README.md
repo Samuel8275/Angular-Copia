@@ -1,3 +1,3 @@
 # Angular-Copia
 Esto es una copia de la pagina oficial de Angular.
-![3776475927](https://user-images.githubusercontent.com/96486230/166481504-74f1d7d9-6d5e-4a78-bbe0-33a70fa660a1.jpeg)
+![unnamed (1)](https://user-images.githubusercontent.com/96486230/166632952-f8c26bb1-571a-4fb6-9d37-40536ce704fa.jpg)
