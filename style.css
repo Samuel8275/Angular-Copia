@@ -1,9 +1,16 @@
+
+/* Typography */
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/* Normalize */
 
 * {
     margin: 0;
     padding: 0;
 }
+
+/* Nav-Bar */
 
 .nav1-responsive {
     display: none;
@@ -85,6 +92,8 @@ nav {
     font-size: 23px;
     color: #ffffff;
 }
+
+/* Content */
 
 .landing {
     display: flex;
@@ -169,6 +178,8 @@ nav {
 .last-arc img{
     width: 100px;
 }
+
+/* Mediacueris */
 
 @media (max-width: 1150px) {
     .nav1 {
